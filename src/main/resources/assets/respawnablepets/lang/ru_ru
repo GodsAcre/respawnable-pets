@@ -1,0 +1,8 @@
+{
+  "item.respawnablepets.etheric_gem": "Эфирный камень",
+  "respawnablepets.tooltip": "Позволяет переключать воскрешение питомца на ЛКМ",
+  "respawnablepets.enable_respawn": "%s теперь возродится после смерти",
+  "respawnablepets.disable_respawn": "%s больше не возрождается после смерти",
+  "respawnablepets.not_owner": "%s не принадлежит вам",
+  "respawnablepets.blacklisted": "%s находится в черном списке"
+}
